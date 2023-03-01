@@ -14,7 +14,7 @@ We propose a novel framework, **simplER**, which makes use of spaCy for named en
 
 The contributions of our work are 3-fold: (1) our solution is highly compact (just 3 functions + 10 lines of code to run), doesn’t require any serious hardware (we ran on Colab with the free runtime), and uses free, mature SOTA tech, **making it easy to implement and maintain**; (2) our solution **integrates error-detection** and simultaneously benchmarks ChatGPT's abilities against current existing methods; and (3) our solution is **able to generate secondary datasets on the fly to which the primary dataset can be matched,** which especially useful in categorization-dependent contexts.
 
-![](\img\simplER.png)
+![](img/simplER.png)
 
 ## Evaluation
 We'll test our framework on 3 different scenarios, with and without an additional keyword in the Googling step, to demonstrate it's competitive or outperforms the baseline (TDmatch).
