@@ -26,7 +26,7 @@ We propose a novel framework, simplER, which makes use of flair for named entity
 The contributions of our work are 3-fold: (1) our solution will be highly compact, won’t require any serious hardware, and will use free, mature SOTA tech, making it easy to implement and maintain; (2) our solution will integrate error-detection and simultaneously benchmark ChatGPT's abilities against current existing error-detection methods; (3) our solution will be able to generate secondary datasets on the fly to which the primary dataset can be matched; and (4) our framework extends beyond public data to “sensitive” or highly local entities.
 
 ## Evaluation
-We'll test our framework on 3 different scenarios, with and without an additional keyword in the Googling step, to demonstrate it's competitive or outperforms the baseline (TDmatch).
+We'll test our framework on 5 different scenarios, with and without error detection, to demonstrate it's competitive or outperforms the baseline (TDmatch).
  
 ### Data to data
 * Fodor-Zagats
