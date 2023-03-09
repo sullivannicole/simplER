@@ -28,4 +28,4 @@ We'll test our framework on 3 different scenarios, with and without an additiona
 * Politifact
 
 ### Data to generated data
-* FDA food products dataset
+* Airbnb scraped listing - assessor's parcel data
