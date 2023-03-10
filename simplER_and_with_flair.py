@@ -108,6 +108,15 @@ CREATE OR REPLACE TABLE user_nsulliv3.simpler_imdb_manual_ided_matches
 
 ''')
 
+# 3. Save out "uncertain" IDs with entities detected
+uncertain_obs = spark.sql('''
+SELECT * 
+FROM user_nsulliv3.simpler_imdb_ner
+WHERE id NOT IN (SELECT DISTINCT id FROM user_nsulliv3.simpler_imdb_eval_maj_ranks);
+''').toPandas()
+
+uncertain_obs.to_csv('/Workspace/Repos/nsulliv3@mercy.net/simplER/data/imdb_uncertain_after_flair.csv')
+
 # -----------------------------
 # Rankings for majority votes
 # -----------------------------
