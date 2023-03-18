@@ -1,9 +1,11 @@
 # Databricks notebook source
+# !pip install torch==1.12.1
 !pip install flair
 import pandas as pd
 from flair.nn import Classifier
 from flair.data import Sentence
 from flair.splitter import SegtokSentenceSplitter
+!pip install bs4
 from utils.simplER import *
 
 # -------------
@@ -31,6 +33,7 @@ ner_results = run_NER(split_df)
 
 # MAGIC %md
 # MAGIC 
+# MAGIC ## Evaluation: with title in join dataset
 # MAGIC **Table creation:**
 # MAGIC 
 # MAGIC 1. simpler_imdb_no_punc: remove all alphanumerics out of ground truth lable
@@ -176,6 +179,51 @@ JOIN movies_w_woa b;
 
 
 
+
+# COMMAND ----------
+
+# MAGIC %md
+# MAGIC 
+# MAGIC ## Evaluation: w/o title in join dataset
+
+# COMMAND ----------
+
+def run_search(search_query: str, num_results: int = 5):
+
+  time.sleep(0.25)
+  # Rotate headers
+  headers = {'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:84.0) Gecko/20100101 Firefox/84.0'}
+  params = {'q': search_query, 'kl': 'us-en'}
+  
+  page = requests.get('https://html.duckduckgo.com/html', headers = headers, params = params).text
+  soup = BeautifulSoup(page, 'html.parser').find_all("a", class_ = "result__url", href = True, limit = num_results)
+
+  urls = [re.sub('\n', '', x.contents[0]).strip() for x in soup] # get URLs
+  urls_split = [x.split('/')[1:] for x in urls] # Pull out every after first backslash
+  url_titles = [re.sub('-|_', ' ', ' '.join(x)).strip() for x in urls_split] # Concatenate strings into one search term
+
+  return {'search_term': search_query, 'url_title': url_titles}
+
+# COMMAND ----------
+
+imdb_nt = pd.read_csv('https://raw.githubusercontent.com/naserahmadi/TDmatch/main/data/imdb/imdb_movielens.csv')
+imdb_nt['year'] = imdb_nt['year'].astype(int)
+imdb_nt['year'] = imdb_nt['year'].astype(str)
+
+# Replace NAs with empty strings
+imdb_nt.actor_1 = np.where(imdb_nt.actor_1.isnull(), '', imdb_nt.actor_1)
+imdb_nt.actor_2 = np.where(imdb_nt.actor_2.isnull(), '', imdb_nt.actor_2)
+imdb_nt.actor_3 = np.where(imdb_nt.actor_3.isnull(), '', imdb_nt.actor_3)
+imdb_nt.director = np.where(imdb_nt.director.isnull(), '', imdb_nt.director)
+
+
+imdb_nt['search_terms'] = imdb_nt[['actor_1', 'actor_2', 'actor_3', 'director', 'year']].apply(' '.join, axis = 1)
+
+# COMMAND ----------
+
+imdb_uncertain = pd.read_csv('https://raw.githubusercontent.com/sullivannicole/simplER/main/data/imdb_uncertain_after_flair.csv')
+imdb_after_gpt = pd.read_csv('https://raw.githubusercontent.com/sullivannicole/simplER/main/data/imdb_after_gpt.csv')[['movie', 'user_review_permalink', 'user_review', 'gpt_movie_title']]
+spark.createDataFrame(imdb_after_gpt).write.mode('overwrite').saveAsTable('user_nsulliv3.simpler_imdb_after_gpt')
 
 # COMMAND ----------
 
