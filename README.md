@@ -1,5 +1,5 @@
 ## simplER
-simplER is a novel easy-to-use framework that makes use of Flair for named entity recognition (NER) and GPT-3.5 for text-data and data-data entity resolution (ER) contexts. By first passing observations through Flair, we ensure that only the most difficult-to-classify observations are passed onto GPT-3.5, thereby reducing runtime and increasing the efficiency of the overall simplER framework.  Notably, the technologies used in simplER are free and user-friendly, making the entire pipeline easy for an analyst or scientist to implement and maintain for the foreseeable future.
+simplER is a novel easy-to-use framework that makes use of Flair for first-pass named entity recognition (NER) and GPT-3.5 for final entity extraction and classification in the text-data and data-data entity resolution (ER) contexts. By first passing observations through Flair, we ensure that only the most difficult-to-classify observations are passed onto GPT-3.5, thereby reducing runtime and increasing the efficiency of the overall simplER framework.  Notably, the technologies used in simplER are free and user-friendly, making the entire pipeline easy for an analyst or scientist to implement and maintain for the foreseeable future.
 
 ## Novel contributions 
 The contributions of our work are 3-fold: <br>
