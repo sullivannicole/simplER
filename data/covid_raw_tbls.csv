@@ -1,0 +1,1159 @@
+,count_type,country,january,february,march,april,may,june
+0,new confirmed,afghanistan,0,1,173,1997,13034,1304
+1,new confirmed,albania,0,0,243,530,364,27
+2,new confirmed,algeria,0,1,715,3290,5388,232
+3,new confirmed,andorra,0,0,376,369,19,80
+4,new confirmed,angola,0,0,7,20,59,0
+5,new confirmed,antigua and barbuda,0,0,7,17,2,0
+6,new confirmed,argentina,0,0,1054,3374,12423,1468
+7,new confirmed,armenia,0,0,532,1534,7216,727
+8,new confirmed,australia,9,16,4534,2207,436,27
+9,new confirmed,austria,0,9,10171,5272,1279,28
+10,new confirmed,azerbaijan,0,0,298,1506,3690,441
+11,new confirmed,bahamas,0,0,14,67,21,0
+12,new confirmed,bahrain,0,41,526,2473,8358,913
+13,new confirmed,bangladesh,0,0,51,7616,39486,5292
+14,new confirmed,barbados,0,0,34,47,11,0
+15,new confirmed,belarus,0,1,151,13875,28529,1699
+16,new confirmed,belgium,0,1,12774,35744,9862,234
+17,new confirmed,belize,0,0,3,15,0,0
+18,new confirmed,benin,0,0,9,55,168,12
+19,new confirmed,bhutan,0,0,4,3,36,4
+20,new confirmed,bolivia,0,0,107,1060,8815,1009
+21,new confirmed,bosnia and herzegovina,0,0,420,1337,753,25
+22,new confirmed,botswana,0,0,4,19,12,5
+23,new confirmed,brazil,0,2,5715,81470,427662,40534
+24,new confirmed,brunei,0,0,129,9,3,0
+25,new confirmed,bulgaria,0,0,399,1107,1007,25
+26,new confirmed,burkina faso,0,0,261,384,202,34
+27,new confirmed,burma,0,0,15,136,73,8
+28,new confirmed,burundi,0,0,2,9,52,0
+29,new confirmed,cabo verde,0,0,6,115,314,31
+30,new confirmed,cambodia,1,0,108,13,3,0
+31,new confirmed,cameroon,0,0,193,1639,4072,681
+32,new confirmed,canada,4,16,8507,45930,38022,1480
+33,new confirmed,central african republic,0,0,3,47,961,58
+34,new confirmed,chad,0,0,7,66,705,25
+35,new confirmed,chile,0,0,2738,13285,83665,8998
+36,new confirmed,china,9802,69554,2923,1677,190,15
+37,new confirmed,colombia,0,0,906,5601,20712,3374
+38,new confirmed,comoros,0,0,0,1,105,26
+39,new confirmed,congo (brazzaville),0,0,19,201,391,0
+40,new confirmed,congo (kinshasa),0,0,98,474,2498,256
+41,new confirmed,costa rica,0,0,347,372,337,49
+42,new confirmed,cote d'ivoire,0,0,179,1096,1558,191
+43,new confirmed,croatia,0,6,861,1209,170,0
+44,new confirmed,cuba,0,0,186,1315,544,47
+45,new confirmed,cyprus,0,0,262,588,94,8
+46,new confirmed,czechia,0,0,3308,4374,1586,96
+47,new confirmed,denmark,0,3,3036,6317,2513,65
+48,new confirmed,diamond princess,0,705,7,0,0,0
+49,new confirmed,djibouti,0,0,30,1059,2265,425
+50,new confirmed,dominica,0,0,12,4,0,2
+51,new confirmed,dominican republic,0,0,1109,5863,10313,467
+52,new confirmed,ecuador,0,0,2240,22694,14164,1316
+53,new confirmed,egypt,0,1,709,4827,19448,2551
+54,new confirmed,el salvador,0,0,32,363,2122,136
+55,new confirmed,equatorial guinea,0,0,12,303,991,0
+56,new confirmed,eritrea,0,0,15,24,0,0
+57,new confirmed,estonia,0,1,744,944,180,1
+58,new confirmed,eswatini,0,0,9,91,185,9
+59,new confirmed,ethiopia,0,0,26,105,1041,172
+60,new confirmed,fiji,0,0,5,13,0,0
+61,new confirmed,finland,1,2,1415,3577,1864,28
+62,new confirmed,france,5,95,52727,114472,21710,-559
+63,new confirmed,gabon,0,0,16,260,2379,148
+64,new confirmed,gambia,0,0,4,7,14,0
+65,new confirmed,georgia,0,1,109,429,244,13
+66,new confirmed,germany,5,74,71729,91201,20401,469
+67,new confirmed,ghana,0,0,161,1913,5996,227
+68,new confirmed,greece,0,4,1310,1277,326,20
+69,new confirmed,grenada,0,0,9,11,3,0
+70,new confirmed,guatemala,0,0,38,561,4488,499
+71,new confirmed,guinea,0,0,22,1473,2211,180
+72,new confirmed,guinea-bissau,0,0,8,197,1051,83
+73,new confirmed,guyana,0,0,12,70,71,0
+74,new confirmed,haiti,0,0,15,66,2043,102
+75,new confirmed,holy see,0,0,6,5,1,0
+76,new confirmed,honduras,0,0,141,630,4431,325
+77,new confirmed,hungary,0,0,492,2283,1101,45
+78,new confirmed,iceland,0,1,1134,662,9,0
+79,new confirmed,india,1,2,1394,33466,155746,16582
+80,new confirmed,indonesia,0,0,1528,8590,16355,1076
+81,new confirmed,iran,0,593,44012,50035,56826,6096
+82,new confirmed,iraq,0,13,681,1391,4354,948
+83,new confirmed,ireland,0,1,3234,17377,4378,76
+84,new confirmed,israel,0,7,5351,10588,1125,214
+85,new confirmed,italy,2,1126,104664,99671,27534,518
+86,new confirmed,jamaica,0,0,36,386,164,4
+87,new confirmed,japan,15,226,1712,12135,2663,86
+88,new confirmed,jordan,0,0,274,179,286,16
+89,new confirmed,kazakhstan,0,0,343,3059,7456,713
+90,new confirmed,kenya,0,0,59,337,1566,131
+91,new confirmed,"korea, south",11,3139,6636,988,729,87
+92,new confirmed,kosovo,0,0,112,694,258,0
+93,new confirmed,kuwait,0,45,244,3735,23019,1606
+94,new confirmed,kyrgyzstan,0,0,107,639,1002,97
+95,new confirmed,laos,0,0,9,10,0,0
+96,new confirmed,latvia,0,0,398,460,208,5
+97,new confirmed,lebanon,0,4,466,255,495,22
+98,new confirmed,lesotho,0,0,0,0,2,0
+99,new confirmed,liberia,0,0,3,138,147,23
+100,new confirmed,libya,0,0,10,51,95,26
+101,new confirmed,liechtenstein,0,0,68,14,0,0
+102,new confirmed,lithuania,0,1,536,848,290,7
+103,new confirmed,luxembourg,0,1,2177,1606,234,2
+104,new confirmed,ms zaandam,0,0,2,7,0,0
+105,new confirmed,madagascar,0,0,57,71,643,74
+106,new confirmed,malawi,0,0,0,37,247,74
+107,new confirmed,malaysia,8,17,2741,3236,1817,58
+108,new confirmed,maldives,0,0,18,450,1305,68
+109,new confirmed,mali,0,0,28,462,775,86
+110,new confirmed,malta,0,0,169,296,153,2
+111,new confirmed,mauritania,0,0,6,2,522,138
+112,new confirmed,mauritius,0,0,143,189,3,0
+113,new confirmed,mexico,0,4,1211,18009,71440,6662
+114,new confirmed,moldova,0,0,353,3544,4354,297
+115,new confirmed,monaco,0,1,51,43,4,0
+116,new confirmed,mongolia,0,0,12,26,141,6
+117,new confirmed,montenegro,0,0,109,213,2,0
+118,new confirmed,morocco,0,0,617,3806,3384,59
+119,new confirmed,mozambique,0,0,8,68,178,53
+120,new confirmed,namibia,0,0,11,5,8,1
+121,new confirmed,nepal,1,0,4,52,1515,527
+122,new confirmed,netherlands,0,6,12661,26845,7133,207
+123,new confirmed,new zealand,0,1,646,832,25,0
+124,new confirmed,nicaragua,0,0,5,9,745,359
+125,new confirmed,niger,0,0,27,692,239,2
+126,new confirmed,nigeria,0,1,134,1797,8230,657
+127,new confirmed,north macedonia,0,1,328,1136,761,165
+128,new confirmed,norway,0,15,4626,3097,702,15
+129,new confirmed,oman,0,6,186,2156,9089,1362
+130,new confirmed,pakistan,0,4,1934,14879,52679,6902
+131,new confirmed,panama,0,0,1181,5351,6931,632
+132,new confirmed,papua new guinea,0,0,1,7,0,0
+133,new confirmed,paraguay,0,0,65,201,720,27
+134,new confirmed,peru,0,0,1065,35911,127500,5563
+135,new confirmed,philippines,1,2,2081,6404,9598,911
+136,new confirmed,poland,0,0,2311,10566,10909,609
+137,new confirmed,portugal,0,0,7443,17602,7455,395
+138,new confirmed,qatar,0,1,780,12628,43501,3349
+139,new confirmed,romania,0,3,2242,9995,7017,260
+140,new confirmed,russia,2,0,2335,104161,299345,17343
+141,new confirmed,rwanda,0,0,75,168,127,14
+142,new confirmed,saint kitts and nevis,0,0,8,7,0,0
+143,new confirmed,saint lucia,0,0,13,4,1,0
+144,new confirmed,saint vincent and the grenadines,0,0,1,15,10,0
+145,new confirmed,san marino,0,1,235,333,102,1
+146,new confirmed,sao tome and principe,0,0,0,14,469,1
+147,new confirmed,saudi arabia,0,0,1563,21190,62508,3750
+148,new confirmed,senegal,0,0,175,758,2712,191
+149,new confirmed,serbia,0,0,900,8109,2403,42
+150,new confirmed,seychelles,0,0,10,1,0,0
+151,new confirmed,sierra leone,0,0,1,123,737,35
+152,new confirmed,singapore,13,89,824,15243,18715,952
+153,new confirmed,slovakia,0,0,363,1033,125,1
+154,new confirmed,slovenia,0,0,802,627,44,2
+155,new confirmed,somalia,0,0,5,596,1375,113
+156,new confirmed,south africa,0,0,1353,4294,27036,3129
+157,new confirmed,south sudan,0,0,0,35,959,0
+158,new confirmed,spain,0,45,95878,117512,26044,453
+159,new confirmed,sri lanka,1,0,142,520,970,50
+160,new confirmed,sudan,0,0,7,435,4584,284
+161,new confirmed,suriname,0,0,9,1,13,31
+162,new confirmed,sweden,1,11,4423,16657,16450,1047
+163,new confirmed,switzerland,0,18,16587,12981,1276,12
+164,new confirmed,syria,0,0,10,33,79,1
+165,new confirmed,taiwan*,10,29,283,107,13,1
+166,new confirmed,tajikistan,0,0,0,15,3915,170
+167,new confirmed,tanzania,0,0,19,461,29,0
+168,new confirmed,thailand,19,23,1609,1303,127,2
+169,new confirmed,timor-leste,0,0,1,23,0,0
+170,new confirmed,togo,0,0,34,82,326,3
+171,new confirmed,trinidad and tobago,0,0,87,29,1,0
+172,new confirmed,tunisia,0,0,394,600,83,9
+173,new confirmed,turkey,0,0,13531,106673,43738,1613
+174,new confirmed,us,7,61,188104,881252,720748,41649
+175,new confirmed,uganda,0,0,44,39,334,72
+176,new confirmed,ukraine,0,0,645,9761,13266,1223
+177,new confirmed,united arab emirates,4,17,643,11817,22076,1231
+178,new confirmed,united kingdom,2,21,25458,147000,103675,3236
+179,new confirmed,uruguay,0,0,338,305,180,3
+180,new confirmed,uzbekistan,0,0,172,1867,1584,137
+181,new confirmed,venezuela,0,0,135,198,1177,309
+182,new confirmed,vietnam,2,14,196,58,58,0
+183,new confirmed,west bank and gaza,0,0,119,225,104,3
+184,new confirmed,western sahara,0,0,0,6,3,0
+185,new confirmed,yemen,0,0,0,6,317,76
+186,new confirmed,zambia,0,0,35,71,951,32
+187,new confirmed,zimbabwe,0,0,8,32,138,28
+188,new confirmed,world,9927,76084,771597,2399302,2910036,211291
+189,new confirmed,united states,7,61,188104,881252,720748,41649
+190,new confirmed,usa,7,61,188104,881252,720748,41649
+191,new confirmed,south korea,11,3139,6636,988,729,87
+192,new confirmed,uk,2,21,25458,147000,103675,3236
+193,new recovered,afghanistan,0,0,5,255,1068,122
+194,new recovered,albania,0,0,52,418,402,19
+195,new recovered,algeria,0,0,46,1733,3969,319
+196,new recovered,andorra,0,0,10,458,226,39
+197,new recovered,angola,0,0,1,6,11,0
+198,new recovered,antigua and barbuda,0,0,0,11,8,1
+199,new recovered,argentina,0,0,240,1016,4080,373
+200,new recovered,armenia,0,0,30,899,2457,41
+201,new recovered,australia,2,9,347,5384,876,18
+202,new recovered,austria,0,0,1095,11812,2686,36
+203,new recovered,azerbaijan,0,0,26,1299,2103,136
+204,new recovered,bahamas,0,0,1,24,23,1
+205,new recovered,bahrain,0,0,295,1205,5173,734
+206,new recovered,bangladesh,0,0,25,135,9621,1339
+207,new recovered,barbados,0,0,0,39,37,0
+208,new recovered,belarus,0,0,47,2339,16128,681
+209,new recovered,belgium,0,1,1695,9880,4311,47
+210,new recovered,belize,0,0,0,9,7,0
+211,new recovered,benin,0,0,1,32,110,5
+212,new recovered,bhutan,0,0,0,5,1,3
+213,new recovered,bolivia,0,0,0,132,836,330
+214,new recovered,bosnia and herzegovina,0,0,17,710,1135,48
+215,new recovered,botswana,0,0,0,5,15,3
+216,new recovered,brazil,0,0,127,35808,170620,17083
+217,new recovered,brunei,0,0,45,79,14,0
+218,new recovered,bulgaria,0,0,17,249,808,49
+219,new recovered,burkina faso,0,0,32,474,214,0
+220,new recovered,burma,0,0,0,27,111,5
+221,new recovered,burundi,0,0,0,4,29,0
+222,new recovered,cabo verde,0,0,0,4,189,44
+223,new recovered,cambodia,0,1,22,96,4,0
+224,new recovered,cameroon,0,0,5,929,2634,108
+225,new recovered,canada,0,6,1586,19832,27789,1512
+226,new recovered,central african republic,0,0,0,10,13,0
+227,new recovered,chad,0,0,0,33,458,71
+228,new recovered,chile,0,0,156,8424,34147,-21402
+229,new recovered,china,214,39106,36886,2317,866,11
+230,new recovered,colombia,0,0,31,1408,5593,2657
+231,new recovered,comoros,0,0,0,0,26,1
+232,new recovered,congo (brazzaville),0,0,0,19,160,0
+233,new recovered,congo (kinshasa),0,0,2,71,375,34
+234,new recovered,costa rica,0,0,4,334,331,13
+235,new recovered,cote d'ivoire,0,0,7,567,861,66
+236,new recovered,croatia,0,0,67,1281,724,16
+237,new recovered,cuba,0,0,8,673,1128,18
+238,new recovered,cyprus,0,0,23,273,494,0
+239,new recovered,czechia,0,0,45,3269,3244,128
+240,new recovered,denmark,0,0,77,6664,3819,127
+241,new recovered,diamond princess,0,10,593,42,6,0
+242,new recovered,djibouti,0,0,0,642,862,103
+243,new recovered,dominica,0,0,0,13,3,0
+244,new recovered,dominican republic,0,0,5,1296,9258,516
+245,new recovered,ecuador,0,0,54,1504,18034,427
+246,new recovered,egypt,0,1,156,1224,4656,790
+247,new recovered,el salvador,0,0,0,119,921,120
+248,new recovered,equatorial guinea,0,0,1,8,191,0
+249,new recovered,eritrea,0,0,0,26,13,0
+250,new recovered,estonia,0,0,26,223,1375,8
+251,new recovered,eswatini,0,0,0,12,177,9
+252,new recovered,ethiopia,0,0,2,57,150,22
+253,new recovered,fiji,0,0,0,12,3,0
+254,new recovered,finland,0,1,9,2990,2500,0
+255,new recovered,france,0,12,9501,39963,18997,457
+256,new recovered,gabon,0,0,0,67,655,57
+257,new recovered,gambia,0,0,0,8,12,0
+258,new recovered,georgia,0,0,21,163,421,29
+259,new recovered,germany,0,16,16084,107400,41852,1257
+260,new recovered,ghana,0,0,31,181,2735,39
+261,new recovered,greece,0,0,52,1322,0,0
+262,new recovered,grenada,0,0,0,13,5,0
+263,new recovered,guatemala,0,0,12,54,669,89
+264,new recovered,guinea,0,0,0,329,1701,237
+265,new recovered,guinea-bissau,0,0,0,19,23,11
+266,new recovered,guyana,0,0,0,22,48,0
+267,new recovered,haiti,0,0,1,7,16,0
+268,new recovered,holy see,0,0,0,2,0,0
+269,new recovered,honduras,0,0,3,76,458,26
+270,new recovered,hungary,0,0,37,544,1566,13
+271,new recovered,iceland,0,0,198,1472,124,0
+272,new recovered,india,0,3,120,8945,82784,8433
+273,new recovered,indonesia,0,0,81,1441,5786,627
+274,new recovered,iran,0,123,14533,60447,43745,4229
+275,new recovered,iraq,0,0,170,1205,1781,352
+276,new recovered,ireland,0,0,5,13381,8703,0
+277,new recovered,israel,0,1,223,8337,6251,128
+278,new recovered,italy,0,46,15683,60216,81562,2585
+279,new recovered,jamaica,0,0,2,27,282,45
+280,new recovered,japan,1,31,392,2036,11882,243
+281,new recovered,jordan,0,0,30,332,160,27
+282,new recovered,kazakhstan,0,0,24,842,4538,537
+283,new recovered,kenya,0,0,1,143,334,21
+284,new recovered,"korea, south",0,27,5381,3664,1350,45
+285,new recovered,kosovo,0,0,6,265,558,0
+286,new recovered,kuwait,0,0,73,1466,9847,2895
+287,new recovered,kyrgyzstan,0,0,3,459,708,49
+288,new recovered,laos,0,0,0,8,8,0
+289,new recovered,latvia,0,0,1,347,397,15
+290,new recovered,lebanon,0,0,37,113,562,7
+291,new recovered,lesotho,0,0,0,0,1,0
+292,new recovered,liberia,0,0,0,45,112,10
+293,new recovered,libya,0,0,1,17,34,0
+294,new recovered,liechtenstein,0,0,0,55,0,0
+295,new recovered,lithuania,0,0,7,582,647,13
+296,new recovered,luxembourg,0,0,80,3133,620,15
+297,new recovered,ms zaandam,0,0,0,0,0,0
+298,new recovered,madagascar,0,0,0,92,76,17
+299,new recovered,malawi,0,0,0,7,35,0
+300,new recovered,malaysia,0,18,519,3634,2182,117
+301,new recovered,maldives,0,0,13,4,436,155
+302,new recovered,mali,0,0,0,135,581,53
+303,new recovered,malta,0,0,2,349,183,20
+304,new recovered,mauritania,0,0,2,4,21,28
+305,new recovered,mauritius,0,0,0,310,12,0
+306,new recovered,mexico,0,0,35,11388,52349,5977
+307,new recovered,moldova,0,0,18,1164,3399,157
+308,new recovered,monaco,0,0,2,62,26,0
+309,new recovered,mongolia,0,0,2,8,34,0
+310,new recovered,montenegro,0,0,0,214,101,0
+311,new recovered,morocco,0,0,24,960,4475,951
+312,new recovered,mozambique,0,0,0,12,79,7
+313,new recovered,namibia,0,0,2,6,6,2
+314,new recovered,nepal,0,1,0,15,204,46
+315,new recovered,netherlands,0,0,3,122,53,2
+316,new recovered,new zealand,0,0,74,1178,229,0
+317,new recovered,nicaragua,0,0,0,7,363,0
+318,new recovered,niger,0,0,0,452,387,9
+319,new recovered,nigeria,0,0,8,311,2688,233
+320,new recovered,north macedonia,0,0,12,726,814,43
+321,new recovered,norway,0,0,13,19,7695,0
+322,new recovered,oman,0,1,33,461,2187,130
+323,new recovered,pakistan,0,0,76,4239,20956,1839
+324,new recovered,panama,0,0,9,567,8938,0
+325,new recovered,papua new guinea,0,0,0,0,8,0
+326,new recovered,paraguay,0,0,1,112,364,21
+327,new recovered,peru,0,0,394,10011,56803,2049
+328,new recovered,philippines,0,1,48,994,2866,154
+329,new recovered,poland,0,0,7,3229,8035,455
+330,new recovered,portugal,0,0,43,1476,17890,460
+331,new recovered,qatar,0,0,62,1310,28918,5746
+332,new recovered,romania,0,0,220,3797,9239,270
+333,new recovered,russia,0,2,119,11498,160264,14719
+334,new recovered,rwanda,0,0,0,104,152,13
+335,new recovered,saint kitts and nevis,0,0,0,6,9,0
+336,new recovered,saint lucia,0,0,1,14,3,0
+337,new recovered,saint vincent and the grenadines,0,0,1,7,7,0
+338,new recovered,san marino,0,0,13,65,279,27
+339,new recovered,sao tome and principe,0,0,0,4,64,0
+340,new recovered,saudi arabia,0,0,165,2998,59279,3348
+341,new recovered,senegal,0,0,40,294,1467,153
+342,new recovered,serbia,0,0,0,1343,5355,68
+343,new recovered,seychelles,0,0,0,6,5,0
+344,new recovered,sierra leone,0,0,0,21,433,26
+345,new recovered,singapore,0,72,168,1004,20455,1476
+346,new recovered,slovakia,0,0,3,521,842,6
+347,new recovered,slovenia,0,0,10,223,1125,0
+348,new recovered,somalia,0,0,1,30,317,13
+349,new recovered,south africa,0,0,31,2042,14736,1504
+350,new recovered,south sudan,0,0,0,0,6,0
+351,new recovered,spain,0,2,19257,92791,38326,0
+352,new recovered,sri lanka,0,1,16,137,647,22
+353,new recovered,sudan,0,0,1,38,1384,202
+354,new recovered,suriname,0,0,0,8,1,0
+355,new recovered,sweden,0,0,16,989,3966,-4971
+356,new recovered,switzerland,0,0,1823,21577,5100,0
+357,new recovered,syria,0,0,0,21,25,4
+358,new recovered,taiwan*,0,9,30,283,101,4
+359,new recovered,tajikistan,0,0,0,0,2004,213
+360,new recovered,tanzania,0,0,1,166,16,0
+361,new recovered,thailand,5,23,314,2342,279,3
+362,new recovered,timor-leste,0,0,0,16,8,0
+363,new recovered,togo,0,0,10,55,146,19
+364,new recovered,trinidad and tobago,0,0,1,71,36,0
+365,new recovered,tunisia,0,0,3,302,655,5
+366,new recovered,turkey,0,0,243,48643,79087,1948
+367,new recovered,us,0,7,7017,146923,290811,19110
+368,new recovered,uganda,0,0,0,52,20,10
+369,new recovered,ukraine,0,0,10,1228,8300,923
+370,new recovered,united arab emirates,0,5,56,2368,15503,794
+371,new recovered,united kingdom,0,8,171,680,331,34
+372,new recovered,uruguay,0,0,41,376,268,6
+373,new recovered,uzbekistan,0,0,7,1126,1704,71
+374,new recovered,venezuela,0,0,39,103,160,32
+375,new recovered,vietnam,0,16,42,161,60,19
+376,new recovered,west bank and gaza,0,0,18,58,296,0
+377,new recovered,western sahara,0,0,0,5,1,0
+378,new recovered,yemen,0,0,0,1,13,1
+379,new recovered,zambia,0,0,0,55,724,133
+380,new recovered,zimbabwe,0,0,0,5,24,0
+381,new recovered,world,222,39560,138002,836102,1627443,88198
+382,new recovered,united states,0,7,7017,146923,290811,19110
+383,new recovered,usa,0,7,7017,146923,290811,19110
+384,new recovered,south korea,0,27,5381,3664,1350,45
+385,new recovered,uk,0,8,171,680,331,34
+386,total confirmed,afghanistan,0,1,174,2171,15205,16509
+387,total confirmed,albania,0,0,243,773,1137,1164
+388,total confirmed,algeria,0,1,716,4006,9394,9626
+389,total confirmed,andorra,0,0,376,745,764,844
+390,total confirmed,angola,0,0,7,27,86,86
+391,total confirmed,antigua and barbuda,0,0,7,24,26,26
+392,total confirmed,argentina,0,0,1054,4428,16851,18319
+393,total confirmed,armenia,0,0,532,2066,9282,10009
+394,total confirmed,australia,9,25,4559,6766,7202,7229
+395,total confirmed,austria,0,9,10180,15452,16731,16759
+396,total confirmed,azerbaijan,0,0,298,1804,5494,5935
+397,total confirmed,bahamas,0,0,14,81,102,102
+398,total confirmed,bahrain,0,41,567,3040,11398,12311
+399,total confirmed,bangladesh,0,0,51,7667,47153,52445
+400,total confirmed,barbados,0,0,34,81,92,92
+401,total confirmed,belarus,0,1,152,14027,42556,44255
+402,total confirmed,belgium,0,1,12775,48519,58381,58615
+403,total confirmed,belize,0,0,3,18,18,18
+404,total confirmed,benin,0,0,9,64,232,244
+405,total confirmed,bhutan,0,0,4,7,43,47
+406,total confirmed,bolivia,0,0,107,1167,9982,10991
+407,total confirmed,bosnia and herzegovina,0,0,420,1757,2510,2535
+408,total confirmed,botswana,0,0,4,23,35,40
+409,total confirmed,brazil,0,2,5717,87187,514849,555383
+410,total confirmed,brunei,0,0,129,138,141,141
+411,total confirmed,bulgaria,0,0,399,1506,2513,2538
+412,total confirmed,burkina faso,0,0,261,645,847,881
+413,total confirmed,burma,0,0,15,151,224,232
+414,total confirmed,burundi,0,0,2,11,63,63
+415,total confirmed,cabo verde,0,0,6,121,435,466
+416,total confirmed,cambodia,1,1,109,122,125,125
+417,total confirmed,cameroon,0,0,193,1832,5904,6585
+418,total confirmed,canada,4,20,8527,54457,92479,93959
+419,total confirmed,central african republic,0,0,3,50,1011,1069
+420,total confirmed,chad,0,0,7,73,778,803
+421,total confirmed,chile,0,0,2738,16023,99688,108686
+422,total confirmed,china,9802,79356,82279,83956,84146,84161
+423,total confirmed,colombia,0,0,906,6507,27219,30593
+424,total confirmed,comoros,0,0,0,1,106,132
+425,total confirmed,congo (brazzaville),0,0,19,220,611,611
+426,total confirmed,congo (kinshasa),0,0,98,572,3070,3326
+427,total confirmed,costa rica,0,0,347,719,1056,1105
+428,total confirmed,cote d'ivoire,0,0,179,1275,2833,3024
+429,total confirmed,croatia,0,6,867,2076,2246,2246
+430,total confirmed,cuba,0,0,186,1501,2045,2092
+431,total confirmed,cyprus,0,0,262,850,944,952
+432,total confirmed,czechia,0,0,3308,7682,9268,9364
+433,total confirmed,denmark,0,3,3039,9356,11869,11934
+434,total confirmed,diamond princess,0,705,712,712,712,712
+435,total confirmed,djibouti,0,0,30,1089,3354,3779
+436,total confirmed,dominica,0,0,12,16,16,18
+437,total confirmed,dominican republic,0,0,1109,6972,17285,17752
+438,total confirmed,ecuador,0,0,2240,24934,39098,40414
+439,total confirmed,egypt,0,1,710,5537,24985,27536
+440,total confirmed,el salvador,0,0,32,395,2517,2653
+441,total confirmed,equatorial guinea,0,0,12,315,1306,1306
+442,total confirmed,eritrea,0,0,15,39,39,39
+443,total confirmed,estonia,0,1,745,1689,1869,1870
+444,total confirmed,eswatini,0,0,9,100,285,294
+445,total confirmed,ethiopia,0,0,26,131,1172,1344
+446,total confirmed,fiji,0,0,5,18,18,18
+447,total confirmed,finland,1,3,1418,4995,6859,6887
+448,total confirmed,france,5,100,52827,167299,189009,188450
+449,total confirmed,gabon,0,0,16,276,2655,2803
+450,total confirmed,gambia,0,0,4,11,25,25
+451,total confirmed,georgia,0,1,110,539,783,796
+452,total confirmed,germany,5,79,71808,163009,183410,183879
+453,total confirmed,ghana,0,0,161,2074,8070,8297
+454,total confirmed,greece,0,4,1314,2591,2917,2937
+455,total confirmed,grenada,0,0,9,20,23,23
+456,total confirmed,guatemala,0,0,38,599,5087,5586
+457,total confirmed,guinea,0,0,22,1495,3706,3886
+458,total confirmed,guinea-bissau,0,0,8,205,1256,1339
+459,total confirmed,guyana,0,0,12,82,153,153
+460,total confirmed,haiti,0,0,15,81,2124,2226
+461,total confirmed,holy see,0,0,6,11,12,12
+462,total confirmed,honduras,0,0,141,771,5202,5527
+463,total confirmed,hungary,0,0,492,2775,3876,3921
+464,total confirmed,iceland,0,1,1135,1797,1806,1806
+465,total confirmed,india,1,3,1397,34863,190609,207191
+466,total confirmed,indonesia,0,0,1528,10118,26473,27549
+467,total confirmed,iran,0,593,44605,94640,151466,157562
+468,total confirmed,iraq,0,13,694,2085,6439,7387
+469,total confirmed,ireland,0,1,3235,20612,24990,25066
+470,total confirmed,israel,0,7,5358,15946,17071,17285
+471,total confirmed,italy,2,1128,105792,205463,232997,233515
+472,total confirmed,jamaica,0,0,36,422,586,590
+473,total confirmed,japan,15,241,1953,14088,16751,16837
+474,total confirmed,jordan,0,0,274,453,739,755
+475,total confirmed,kazakhstan,0,0,343,3402,10858,11571
+476,total confirmed,kenya,0,0,59,396,1962,2093
+477,total confirmed,"korea, south",11,3150,9786,10774,11503,11590
+478,total confirmed,kosovo,0,0,112,806,1064,1064
+479,total confirmed,kuwait,0,45,289,4024,27043,28649
+480,total confirmed,kyrgyzstan,0,0,107,746,1748,1845
+481,total confirmed,laos,0,0,9,19,19,19
+482,total confirmed,latvia,0,0,398,858,1066,1071
+483,total confirmed,lebanon,0,4,470,725,1220,1242
+484,total confirmed,lesotho,0,0,0,0,2,2
+485,total confirmed,liberia,0,0,3,141,288,311
+486,total confirmed,libya,0,0,10,61,156,182
+487,total confirmed,liechtenstein,0,0,68,82,82,82
+488,total confirmed,lithuania,0,1,537,1385,1675,1682
+489,total confirmed,luxembourg,0,1,2178,3784,4018,4020
+490,total confirmed,ms zaandam,0,0,2,9,9,9
+491,total confirmed,madagascar,0,0,57,128,771,845
+492,total confirmed,malawi,0,0,0,37,284,358
+493,total confirmed,malaysia,8,25,2766,6002,7819,7877
+494,total confirmed,maldives,0,0,18,468,1773,1841
+495,total confirmed,mali,0,0,28,490,1265,1351
+496,total confirmed,malta,0,0,169,465,618,620
+497,total confirmed,mauritania,0,0,6,8,530,668
+498,total confirmed,mauritius,0,0,143,332,335,335
+499,total confirmed,mexico,0,4,1215,19224,90664,97326
+500,total confirmed,moldova,0,0,353,3897,8251,8548
+501,total confirmed,monaco,0,1,52,95,99,99
+502,total confirmed,mongolia,0,0,12,38,179,185
+503,total confirmed,montenegro,0,0,109,322,324,324
+504,total confirmed,morocco,0,0,617,4423,7807,7866
+505,total confirmed,mozambique,0,0,8,76,254,307
+506,total confirmed,namibia,0,0,11,16,24,25
+507,total confirmed,nepal,1,1,5,57,1572,2099
+508,total confirmed,netherlands,0,6,12667,39512,46645,46852
+509,total confirmed,new zealand,0,1,647,1479,1504,1504
+510,total confirmed,nicaragua,0,0,5,14,759,1118
+511,total confirmed,niger,0,0,27,719,958,960
+512,total confirmed,nigeria,0,1,135,1932,10162,10819
+513,total confirmed,north macedonia,0,1,329,1465,2226,2391
+514,total confirmed,norway,0,15,4641,7738,8440,8455
+515,total confirmed,oman,0,6,192,2348,11437,12799
+516,total confirmed,pakistan,0,4,1938,16817,69496,76398
+517,total confirmed,panama,0,0,1181,6532,13463,14095
+518,total confirmed,papua new guinea,0,0,1,8,8,8
+519,total confirmed,paraguay,0,0,65,266,986,1013
+520,total confirmed,peru,0,0,1065,36976,164476,170039
+521,total confirmed,philippines,1,3,2084,8488,18086,18997
+522,total confirmed,poland,0,0,2311,12877,23786,24395
+523,total confirmed,portugal,0,0,7443,25045,32500,32895
+524,total confirmed,qatar,0,1,781,13409,56910,60259
+525,total confirmed,romania,0,3,2245,12240,19257,19517
+526,total confirmed,russia,2,2,2337,106498,405843,423186
+527,total confirmed,rwanda,0,0,75,243,370,384
+528,total confirmed,saint kitts and nevis,0,0,8,15,15,15
+529,total confirmed,saint lucia,0,0,13,17,18,18
+530,total confirmed,saint vincent and the grenadines,0,0,1,16,26,26
+531,total confirmed,san marino,0,1,236,569,671,672
+532,total confirmed,sao tome and principe,0,0,0,14,483,484
+533,total confirmed,saudi arabia,0,0,1563,22753,85261,89011
+534,total confirmed,senegal,0,0,175,933,3645,3836
+535,total confirmed,serbia,0,0,900,9009,11412,11454
+536,total confirmed,seychelles,0,0,10,11,11,11
+537,total confirmed,sierra leone,0,0,1,124,861,896
+538,total confirmed,singapore,13,102,926,16169,34884,35836
+539,total confirmed,slovakia,0,0,363,1396,1521,1522
+540,total confirmed,slovenia,0,0,802,1429,1473,1475
+541,total confirmed,somalia,0,0,5,601,1976,2089
+542,total confirmed,south africa,0,0,1353,5647,32683,35812
+543,total confirmed,south sudan,0,0,0,35,994,994
+544,total confirmed,spain,0,45,95923,213435,239479,239932
+545,total confirmed,sri lanka,1,1,143,663,1633,1683
+546,total confirmed,sudan,0,0,7,442,5026,5310
+547,total confirmed,suriname,0,0,9,10,23,54
+548,total confirmed,sweden,1,12,4435,21092,37542,38589
+549,total confirmed,switzerland,0,18,16605,29586,30862,30874
+550,total confirmed,syria,0,0,10,43,122,123
+551,total confirmed,taiwan*,10,39,322,429,442,443
+552,total confirmed,tajikistan,0,0,0,15,3930,4100
+553,total confirmed,tanzania,0,0,19,480,509,509
+554,total confirmed,thailand,19,42,1651,2954,3081,3083
+555,total confirmed,timor-leste,0,0,1,24,24,24
+556,total confirmed,togo,0,0,34,116,442,445
+557,total confirmed,trinidad and tobago,0,0,87,116,117,117
+558,total confirmed,tunisia,0,0,394,994,1077,1086
+559,total confirmed,turkey,0,0,13531,120204,163942,165555
+560,total confirmed,us,7,68,188172,1069424,1790172,1831821
+561,total confirmed,uganda,0,0,44,83,417,489
+562,total confirmed,ukraine,0,0,645,10406,23672,24895
+563,total confirmed,united arab emirates,4,21,664,12481,34557,35788
+564,total confirmed,united kingdom,2,23,25481,172481,276156,279392
+565,total confirmed,uruguay,0,0,338,643,823,826
+566,total confirmed,uzbekistan,0,0,172,2039,3623,3760
+567,total confirmed,venezuela,0,0,135,333,1510,1819
+568,total confirmed,vietnam,2,16,212,270,328,328
+569,total confirmed,west bank and gaza,0,0,119,344,448,451
+570,total confirmed,western sahara,0,0,0,6,9,9
+571,total confirmed,yemen,0,0,0,6,323,399
+572,total confirmed,zambia,0,0,35,106,1057,1089
+573,total confirmed,zimbabwe,0,0,8,40,178,206
+574,total confirmed,world,9927,86011,857608,3256910,6166946,6378237
+575,total confirmed,united states,7,68,188172,1069424,1790172,1831821
+576,total confirmed,usa,7,68,188172,1069424,1790172,1831821
+577,total confirmed,south korea,11,3150,9786,10774,11503,11590
+578,total confirmed,uk,2,23,25481,172481,276156,279392
+579,total recovered,afghanistan,0,0,5,260,1328,1450
+580,total recovered,albania,0,0,52,470,872,891
+581,total recovered,algeria,0,0,46,1779,5748,6067
+582,total recovered,andorra,0,0,10,468,694,733
+583,total recovered,angola,0,0,1,7,18,18
+584,total recovered,antigua and barbuda,0,0,0,11,19,20
+585,total recovered,argentina,0,0,240,1256,5336,5709
+586,total recovered,armenia,0,0,30,929,3386,3427
+587,total recovered,australia,2,11,358,5742,6618,6636
+588,total recovered,austria,0,0,1095,12907,15593,15629
+589,total recovered,azerbaijan,0,0,26,1325,3428,3564
+590,total recovered,bahamas,0,0,1,25,48,49
+591,total recovered,bahrain,0,0,295,1500,6673,7407
+592,total recovered,bangladesh,0,0,25,160,9781,11120
+593,total recovered,barbados,0,0,0,39,76,76
+594,total recovered,belarus,0,0,47,2386,18514,19195
+595,total recovered,belgium,0,1,1696,11576,15887,15934
+596,total recovered,belize,0,0,0,9,16,16
+597,total recovered,benin,0,0,1,33,143,148
+598,total recovered,bhutan,0,0,0,5,6,9
+599,total recovered,bolivia,0,0,0,132,968,1298
+600,total recovered,bosnia and herzegovina,0,0,17,727,1862,1910
+601,total recovered,botswana,0,0,0,5,20,23
+602,total recovered,brazil,0,0,127,35935,206555,223638
+603,total recovered,brunei,0,0,45,124,138,138
+604,total recovered,bulgaria,0,0,17,266,1074,1123
+605,total recovered,burkina faso,0,0,32,506,720,720
+606,total recovered,burma,0,0,0,27,138,143
+607,total recovered,burundi,0,0,0,4,33,33
+608,total recovered,cabo verde,0,0,0,4,193,237
+609,total recovered,cambodia,0,1,23,119,123,123
+610,total recovered,cameroon,0,0,5,934,3568,3676
+611,total recovered,canada,0,6,1592,21424,49213,50725
+612,total recovered,central african republic,0,0,0,10,23,23
+613,total recovered,chad,0,0,0,33,491,562
+614,total recovered,chile,0,0,156,8580,42727,21325
+615,total recovered,china,214,39320,76206,78523,79389,79400
+616,total recovered,colombia,0,0,31,1439,7032,9689
+617,total recovered,comoros,0,0,0,0,26,27
+618,total recovered,congo (brazzaville),0,0,0,19,179,179
+619,total recovered,congo (kinshasa),0,0,2,73,448,482
+620,total recovered,costa rica,0,0,4,338,669,682
+621,total recovered,cote d'ivoire,0,0,7,574,1435,1501
+622,total recovered,croatia,0,0,67,1348,2072,2088
+623,total recovered,cuba,0,0,8,681,1809,1827
+624,total recovered,cyprus,0,0,23,296,790,790
+625,total recovered,czechia,0,0,45,3314,6558,6686
+626,total recovered,denmark,0,0,77,6741,10560,10687
+627,total recovered,diamond princess,0,10,603,645,651,651
+628,total recovered,djibouti,0,0,0,642,1504,1607
+629,total recovered,dominica,0,0,0,13,16,16
+630,total recovered,dominican republic,0,0,5,1301,10559,11075
+631,total recovered,ecuador,0,0,54,1558,19592,20019
+632,total recovered,egypt,0,1,157,1381,6037,6827
+633,total recovered,el salvador,0,0,0,119,1040,1160
+634,total recovered,equatorial guinea,0,0,1,9,200,200
+635,total recovered,eritrea,0,0,0,26,39,39
+636,total recovered,estonia,0,0,26,249,1624,1632
+637,total recovered,eswatini,0,0,0,12,189,198
+638,total recovered,ethiopia,0,0,2,59,209,231
+639,total recovered,fiji,0,0,0,12,15,15
+640,total recovered,finland,0,1,10,3000,5500,5500
+641,total recovered,france,0,12,9513,49476,68473,68930
+642,total recovered,gabon,0,0,0,67,722,779
+643,total recovered,gambia,0,0,0,8,20,20
+644,total recovered,georgia,0,0,21,184,605,634
+645,total recovered,germany,0,16,16100,123500,165352,166609
+646,total recovered,ghana,0,0,31,212,2947,2986
+647,total recovered,greece,0,0,52,1374,1374,1374
+648,total recovered,grenada,0,0,0,13,18,18
+649,total recovered,guatemala,0,0,12,66,735,824
+650,total recovered,guinea,0,0,0,329,2030,2267
+651,total recovered,guinea-bissau,0,0,0,19,42,53
+652,total recovered,guyana,0,0,0,22,70,70
+653,total recovered,haiti,0,0,1,8,24,24
+654,total recovered,holy see,0,0,0,2,2,2
+655,total recovered,honduras,0,0,3,79,537,563
+656,total recovered,hungary,0,0,37,581,2147,2160
+657,total recovered,iceland,0,0,198,1670,1794,1794
+658,total recovered,india,0,3,123,9068,91852,100285
+659,total recovered,indonesia,0,0,81,1522,7308,7935
+660,total recovered,iran,0,123,14656,75103,118848,123077
+661,total recovered,iraq,0,0,170,1375,3156,3508
+662,total recovered,ireland,0,0,5,13386,22089,22089
+663,total recovered,israel,0,1,224,8561,14812,14940
+664,total recovered,italy,0,46,15729,75945,157507,160092
+665,total recovered,jamaica,0,0,2,29,311,356
+666,total recovered,japan,1,32,424,2460,14342,14585
+667,total recovered,jordan,0,0,30,362,522,549
+668,total recovered,kazakhstan,0,0,24,866,5404,5941
+669,total recovered,kenya,0,0,1,144,478,499
+670,total recovered,"korea, south",0,27,5408,9072,10422,10467
+671,total recovered,kosovo,0,0,6,271,829,829
+672,total recovered,kuwait,0,0,73,1539,11386,14281
+673,total recovered,kyrgyzstan,0,0,3,462,1170,1219
+674,total recovered,laos,0,0,0,8,16,16
+675,total recovered,latvia,0,0,1,348,745,760
+676,total recovered,lebanon,0,0,37,150,712,719
+677,total recovered,lesotho,0,0,0,0,1,1
+678,total recovered,liberia,0,0,0,45,157,167
+679,total recovered,libya,0,0,1,18,52,52
+680,total recovered,liechtenstein,0,0,0,55,55,55
+681,total recovered,lithuania,0,0,7,589,1236,1249
+682,total recovered,luxembourg,0,0,80,3213,3833,3848
+683,total recovered,ms zaandam,0,0,0,0,0,0
+684,total recovered,madagascar,0,0,0,92,168,185
+685,total recovered,malawi,0,0,0,7,42,42
+686,total recovered,malaysia,0,18,537,4171,6353,6470
+687,total recovered,maldives,0,0,13,17,453,608
+688,total recovered,mali,0,0,0,135,716,769
+689,total recovered,malta,0,0,2,351,534,554
+690,total recovered,mauritania,0,0,2,6,27,55
+691,total recovered,mauritius,0,0,0,310,322,322
+692,total recovered,mexico,0,0,35,11423,63772,69749
+693,total recovered,moldova,0,0,18,1182,4581,4738
+694,total recovered,monaco,0,0,2,64,90,90
+695,total recovered,mongolia,0,0,2,10,44,44
+696,total recovered,montenegro,0,0,0,214,315,315
+697,total recovered,morocco,0,0,24,984,5459,6410
+698,total recovered,mozambique,0,0,0,12,91,98
+699,total recovered,namibia,0,0,2,8,14,16
+700,total recovered,nepal,0,1,1,16,220,266
+701,total recovered,netherlands,0,0,3,125,178,180
+702,total recovered,new zealand,0,0,74,1252,1481,1481
+703,total recovered,nicaragua,0,0,0,7,370,370
+704,total recovered,niger,0,0,0,452,839,848
+705,total recovered,nigeria,0,0,8,319,3007,3240
+706,total recovered,north macedonia,0,0,12,738,1552,1595
+707,total recovered,norway,0,0,13,32,7727,7727
+708,total recovered,oman,0,1,34,495,2682,2812
+709,total recovered,pakistan,0,0,76,4315,25271,27110
+710,total recovered,panama,0,0,9,576,9514,9514
+711,total recovered,papua new guinea,0,0,0,0,8,8
+712,total recovered,paraguay,0,0,1,113,477,498
+713,total recovered,peru,0,0,394,10405,67208,69257
+714,total recovered,philippines,0,1,49,1043,3909,4063
+715,total recovered,poland,0,0,7,3236,11271,11726
+716,total recovered,portugal,0,0,43,1519,19409,19869
+717,total recovered,qatar,0,0,62,1372,30290,36036
+718,total recovered,romania,0,0,220,4017,13256,13526
+719,total recovered,russia,0,2,121,11619,171883,186602
+720,total recovered,rwanda,0,0,0,104,256,269
+721,total recovered,saint kitts and nevis,0,0,0,6,15,15
+722,total recovered,saint lucia,0,0,1,15,18,18
+723,total recovered,saint vincent and the grenadines,0,0,1,8,15,15
+724,total recovered,san marino,0,0,13,78,357,384
+725,total recovered,sao tome and principe,0,0,0,4,68,68
+726,total recovered,saudi arabia,0,0,165,3163,62442,65790
+727,total recovered,senegal,0,0,40,334,1801,1954
+728,total recovered,serbia,0,0,0,1343,6698,6766
+729,total recovered,seychelles,0,0,0,6,11,11
+730,total recovered,sierra leone,0,0,0,21,454,480
+731,total recovered,singapore,0,72,240,1244,21699,23175
+732,total recovered,slovakia,0,0,3,524,1366,1372
+733,total recovered,slovenia,0,0,10,233,1358,1358
+734,total recovered,somalia,0,0,1,31,348,361
+735,total recovered,south africa,0,0,31,2073,16809,18313
+736,total recovered,south sudan,0,0,0,0,6,6
+737,total recovered,spain,0,2,19259,112050,150376,150376
+738,total recovered,sri lanka,0,1,17,154,801,823
+739,total recovered,sudan,0,0,1,39,1423,1625
+740,total recovered,suriname,0,0,0,8,9,9
+741,total recovered,sweden,0,0,16,1005,4971,0
+742,total recovered,switzerland,0,0,1823,23400,28500,28500
+743,total recovered,syria,0,0,0,21,46,50
+744,total recovered,taiwan*,0,9,39,322,423,427
+745,total recovered,tajikistan,0,0,0,0,2004,2217
+746,total recovered,tanzania,0,0,1,167,183,183
+747,total recovered,thailand,5,28,342,2684,2963,2966
+748,total recovered,timor-leste,0,0,0,16,24,24
+749,total recovered,togo,0,0,10,65,211,230
+750,total recovered,trinidad and tobago,0,0,1,72,108,108
+751,total recovered,tunisia,0,0,3,305,960,965
+752,total recovered,turkey,0,0,243,48886,127973,129921
+753,total recovered,us,0,7,7024,153947,444758,463868
+754,total recovered,uganda,0,0,0,52,72,82
+755,total recovered,ukraine,0,0,10,1238,9538,10461
+756,total recovered,united arab emirates,0,5,61,2429,17932,18726
+757,total recovered,united kingdom,0,8,179,859,1190,1224
+758,total recovered,uruguay,0,0,41,417,685,691
+759,total recovered,uzbekistan,0,0,7,1133,2837,2908
+760,total recovered,venezuela,0,0,39,142,302,334
+761,total recovered,vietnam,0,16,58,219,279,298
+762,total recovered,west bank and gaza,0,0,18,76,372,372
+763,total recovered,western sahara,0,0,0,5,6,6
+764,total recovered,yemen,0,0,0,1,14,15
+765,total recovered,zambia,0,0,0,55,779,912
+766,total recovered,zimbabwe,0,0,0,5,29,29
+767,total recovered,world,222,39782,177784,1013886,2641329,2729527
+768,total recovered,united states,0,7,7024,153947,444758,463868
+769,total recovered,usa,0,7,7024,153947,444758,463868
+770,total recovered,south korea,0,27,5408,9072,10422,10467
+771,total recovered,uk,0,8,179,859,1190,1224
+772,new deaths,afghanistan,0,0,4,60,193,13
+773,new deaths,albania,0,0,15,16,2,0
+774,new deaths,algeria,0,0,44,406,203,14
+775,new deaths,andorra,0,0,12,30,9,0
+776,new deaths,angola,0,0,2,0,2,0
+777,new deaths,antigua and barbuda,0,0,0,3,0,0
+778,new deaths,argentina,0,0,27,191,321,30
+779,new deaths,armenia,0,0,3,29,99,27
+780,new deaths,australia,0,0,18,75,10,-1
+781,new deaths,austria,0,0,128,456,84,1
+782,new deaths,azerbaijan,0,0,5,19,39,8
+783,new deaths,bahamas,0,0,0,11,0,0
+784,new deaths,bahrain,0,0,4,4,11,0
+785,new deaths,bangladesh,0,0,5,163,482,59
+786,new deaths,barbados,0,0,0,7,0,0
+787,new deaths,belarus,0,0,1,88,146,8
+788,new deaths,belgium,0,0,705,6889,1873,38
+789,new deaths,belize,0,0,0,2,0,0
+790,new deaths,benin,0,0,0,1,2,0
+791,new deaths,bhutan,0,0,0,0,0,0
+792,new deaths,bolivia,0,0,6,56,251,63
+793,new deaths,bosnia and herzegovina,0,0,13,56,84,4
+794,new deaths,botswana,0,0,1,0,0,0
+795,new deaths,brazil,0,0,201,5805,23308,1885
+796,new deaths,brunei,0,0,1,0,1,0
+797,new deaths,bulgaria,0,0,8,58,74,4
+798,new deaths,burkina faso,0,0,14,29,10,0
+799,new deaths,burma,0,0,1,5,0,0
+800,new deaths,burundi,0,0,0,1,0,0
+801,new deaths,cabo verde,0,0,1,0,3,1
+802,new deaths,cambodia,0,0,0,0,0,0
+803,new deaths,cameroon,0,0,6,55,130,9
+804,new deaths,canada,0,0,101,3209,4064,102
+805,new deaths,central african republic,0,0,0,0,2,2
+806,new deaths,chad,0,0,0,5,60,1
+807,new deaths,chile,0,0,12,215,827,134
+808,new deaths,china,213,2624,472,1328,1,0
+809,new deaths,colombia,0,0,16,277,623,98
+810,new deaths,comoros,0,0,0,0,2,0
+811,new deaths,congo (brazzaville),0,0,0,9,11,0
+812,new deaths,congo (kinshasa),0,0,8,23,41,0
+813,new deaths,costa rica,0,0,2,4,4,0
+814,new deaths,cote d'ivoire,0,0,1,13,19,0
+815,new deaths,croatia,0,0,6,63,34,0
+816,new deaths,cuba,0,0,6,55,22,0
+817,new deaths,cyprus,0,0,8,7,2,0
+818,new deaths,czechia,0,0,31,205,84,3
+819,new deaths,denmark,0,0,90,362,122,6
+820,new deaths,diamond princess,0,6,4,3,0,0
+821,new deaths,djibouti,0,0,0,2,22,1
+822,new deaths,dominica,0,0,0,0,0,0
+823,new deaths,dominican republic,0,0,51,250,201,13
+824,new deaths,ecuador,0,0,75,825,2458,80
+825,new deaths,egypt,0,0,46,346,567,93
+826,new deaths,el salvador,0,0,1,9,36,3
+827,new deaths,equatorial guinea,0,0,0,1,11,0
+828,new deaths,eritrea,0,0,0,0,0,0
+829,new deaths,estonia,0,0,4,48,16,0
+830,new deaths,eswatini,0,0,0,1,1,1
+831,new deaths,ethiopia,0,0,0,3,8,3
+832,new deaths,fiji,0,0,0,0,0,0
+833,new deaths,finland,0,0,17,194,109,0
+834,new deaths,france,0,2,3530,20847,4426,138
+835,new deaths,gabon,0,0,1,2,14,3
+836,new deaths,gambia,0,0,1,0,0,0
+837,new deaths,georgia,0,0,0,6,6,1
+838,new deaths,germany,0,0,775,5848,1917,23
+839,new deaths,ghana,0,0,5,12,19,2
+840,new deaths,greece,0,0,49,91,35,4
+841,new deaths,grenada,0,0,0,0,0,0
+842,new deaths,guatemala,0,0,1,15,92,15
+843,new deaths,guinea,0,0,0,7,16,0
+844,new deaths,guinea-bissau,0,0,0,1,7,0
+845,new deaths,guyana,0,0,2,7,3,0
+846,new deaths,haiti,0,0,0,8,36,1
+847,new deaths,holy see,0,0,0,0,0,0
+848,new deaths,honduras,0,0,7,64,141,13
+849,new deaths,hungary,0,0,16,296,214,6
+850,new deaths,iceland,0,0,2,8,0,0
+851,new deaths,india,0,0,35,1119,4254,421
+852,new deaths,indonesia,0,0,136,656,821,50
+853,new deaths,iran,0,43,2855,3130,1769,145
+854,new deaths,iraq,0,0,50,43,112,30
+855,new deaths,ireland,0,0,71,1161,420,6
+856,new deaths,israel,0,0,20,202,63,5
+857,new deaths,italy,0,29,12399,15539,5448,115
+858,new deaths,jamaica,0,0,1,7,1,0
+859,new deaths,japan,0,5,51,374,468,4
+860,new deaths,jordan,0,0,5,3,1,0
+861,new deaths,kazakhstan,0,0,2,23,15,4
+862,new deaths,kenya,0,0,1,16,47,7
+863,new deaths,"korea, south",0,16,146,86,23,2
+864,new deaths,kosovo,0,0,1,21,8,0
+865,new deaths,kuwait,0,0,0,26,186,14
+866,new deaths,kyrgyzstan,0,0,0,8,8,1
+867,new deaths,laos,0,0,0,0,0,0
+868,new deaths,latvia,0,0,0,15,9,0
+869,new deaths,lebanon,0,0,12,12,3,0
+870,new deaths,lesotho,0,0,0,0,0,0
+871,new deaths,liberia,0,0,0,16,11,1
+872,new deaths,libya,0,0,0,3,2,0
+873,new deaths,liechtenstein,0,0,0,1,0,0
+874,new deaths,lithuania,0,0,8,37,25,1
+875,new deaths,luxembourg,0,0,23,67,20,0
+876,new deaths,ms zaandam,0,0,0,2,0,0
+877,new deaths,madagascar,0,0,0,0,6,0
+878,new deaths,malawi,0,0,0,3,1,0
+879,new deaths,malaysia,0,0,43,59,13,0
+880,new deaths,maldives,0,0,0,1,4,2
+881,new deaths,mali,0,0,2,24,51,1
+882,new deaths,malta,0,0,0,4,5,0
+883,new deaths,mauritania,0,0,1,0,22,8
+884,new deaths,mauritius,0,0,5,5,0,0
+885,new deaths,mexico,0,0,29,1830,8071,707
+886,new deaths,moldova,0,0,4,112,179,12
+887,new deaths,monaco,0,0,1,3,0,0
+888,new deaths,mongolia,0,0,0,0,0,0
+889,new deaths,montenegro,0,0,2,5,2,0
+890,new deaths,morocco,0,0,36,134,35,1
+891,new deaths,mozambique,0,0,0,0,2,0
+892,new deaths,namibia,0,0,0,0,0,0
+893,new deaths,nepal,0,0,0,0,8,0
+894,new deaths,netherlands,0,0,1040,3771,1164,11
+895,new deaths,new zealand,0,0,1,18,3,0
+896,new deaths,nicaragua,0,0,1,2,32,11
+897,new deaths,niger,0,0,3,29,32,1
+898,new deaths,nigeria,0,0,2,56,229,27
+899,new deaths,north macedonia,0,0,9,68,56,8
+900,new deaths,norway,0,0,39,171,26,1
+901,new deaths,oman,0,0,1,10,38,10
+902,new deaths,pakistan,0,0,26,359,1098,138
+903,new deaths,panama,0,0,30,158,148,16
+904,new deaths,papua new guinea,0,0,0,0,0,0
+905,new deaths,paraguay,0,0,3,7,1,0
+906,new deaths,peru,0,0,30,1021,3455,128
+907,new deaths,philippines,0,1,87,480,389,9
+908,new deaths,poland,0,0,33,611,420,28
+909,new deaths,portugal,0,0,160,829,421,26
+910,new deaths,qatar,0,0,2,8,28,5
+911,new deaths,romania,0,0,82,635,549,22
+912,new deaths,russia,0,0,17,1056,3620,338
+913,new deaths,rwanda,0,0,0,0,1,1
+914,new deaths,saint kitts and nevis,0,0,0,0,0,0
+915,new deaths,saint lucia,0,0,0,0,0,0
+916,new deaths,saint vincent and the grenadines,0,0,0,0,0,0
+917,new deaths,san marino,0,0,26,15,1,0
+918,new deaths,sao tome and principe,0,0,0,0,12,0
+919,new deaths,saudi arabia,0,0,10,152,341,46
+920,new deaths,senegal,0,0,0,9,33,1
+921,new deaths,serbia,0,0,16,163,64,2
+922,new deaths,seychelles,0,0,0,0,0,0
+923,new deaths,sierra leone,0,0,0,7,39,0
+924,new deaths,singapore,0,0,3,12,8,1
+925,new deaths,slovakia,0,0,0,23,5,0
+926,new deaths,slovenia,0,0,15,76,17,1
+927,new deaths,somalia,0,0,0,28,50,1
+928,new deaths,south africa,0,0,5,98,580,72
+929,new deaths,south sudan,0,0,0,0,10,0
+930,new deaths,spain,0,0,8464,16079,2584,0
+931,new deaths,sri lanka,0,0,2,5,3,1
+932,new deaths,sudan,0,0,2,29,255,21
+933,new deaths,suriname,0,0,0,1,0,0
+934,new deaths,sweden,0,0,180,2406,1809,73
+935,new deaths,switzerland,0,0,433,1304,183,0
+936,new deaths,syria,0,0,2,1,2,1
+937,new deaths,taiwan*,0,1,4,1,1,0
+938,new deaths,tajikistan,0,0,0,0,47,0
+939,new deaths,tanzania,0,0,1,15,5,0
+940,new deaths,thailand,0,0,10,44,3,1
+941,new deaths,timor-leste,0,0,0,0,0,0
+942,new deaths,togo,0,0,1,8,4,0
+943,new deaths,trinidad and tobago,0,0,3,5,0,0
+944,new deaths,tunisia,0,0,10,31,7,0
+945,new deaths,turkey,0,0,214,2960,1366,45
+946,new deaths,us,0,1,5366,57629,41385,1799
+947,new deaths,uganda,0,0,0,0,0,0
+948,new deaths,ukraine,0,0,17,244,447,25
+949,new deaths,united arab emirates,0,0,6,99,159,5
+950,new deaths,united kingdom,0,0,2429,24413,11729,881
+951,new deaths,uruguay,0,0,1,16,5,1
+952,new deaths,uzbekistan,0,0,2,7,6,0
+953,new deaths,venezuela,0,0,3,13,-2,4
+954,new deaths,vietnam,0,0,0,0,0,0
+955,new deaths,west bank and gaza,0,0,1,1,1,0
+956,new deaths,western sahara,0,0,0,0,1,0
+957,new deaths,yemen,0,0,0,2,78,7
+958,new deaths,zambia,0,0,0,3,4,0
+959,new deaths,zimbabwe,0,0,1,3,0,0
+960,new deaths,world,213,2728,41297,189122,138675,8214
+961,new deaths,united states,0,1,5366,57629,41385,1799
+962,new deaths,usa,0,1,5366,57629,41385,1799
+963,new deaths,south korea,0,16,146,86,23,2
+964,new deaths,uk,0,0,2429,24413,11729,881
+965,total deaths,afghanistan,0,0,4,64,257,270
+966,total deaths,albania,0,0,15,31,33,33
+967,total deaths,algeria,0,0,44,450,653,667
+968,total deaths,andorra,0,0,12,42,51,51
+969,total deaths,angola,0,0,2,2,4,4
+970,total deaths,antigua and barbuda,0,0,0,3,3,3
+971,total deaths,argentina,0,0,27,218,539,569
+972,total deaths,armenia,0,0,3,32,131,158
+973,total deaths,australia,0,0,18,93,103,102
+974,total deaths,austria,0,0,128,584,668,669
+975,total deaths,azerbaijan,0,0,5,24,63,71
+976,total deaths,bahamas,0,0,0,11,11,11
+977,total deaths,bahrain,0,0,4,8,19,19
+978,total deaths,bangladesh,0,0,5,168,650,709
+979,total deaths,barbados,0,0,0,7,7,7
+980,total deaths,belarus,0,0,1,89,235,243
+981,total deaths,belgium,0,0,705,7594,9467,9505
+982,total deaths,belize,0,0,0,2,2,2
+983,total deaths,benin,0,0,0,1,3,3
+984,total deaths,bhutan,0,0,0,0,0,0
+985,total deaths,bolivia,0,0,6,62,313,376
+986,total deaths,bosnia and herzegovina,0,0,13,69,153,157
+987,total deaths,botswana,0,0,1,1,1,1
+988,total deaths,brazil,0,0,201,6006,29314,31199
+989,total deaths,brunei,0,0,1,1,2,2
+990,total deaths,bulgaria,0,0,8,66,140,144
+991,total deaths,burkina faso,0,0,14,43,53,53
+992,total deaths,burma,0,0,1,6,6,6
+993,total deaths,burundi,0,0,0,1,1,1
+994,total deaths,cabo verde,0,0,1,1,4,5
+995,total deaths,cambodia,0,0,0,0,0,0
+996,total deaths,cameroon,0,0,6,61,191,200
+997,total deaths,canada,0,0,101,3310,7374,7476
+998,total deaths,central african republic,0,0,0,0,2,4
+999,total deaths,chad,0,0,0,5,65,66
+1000,total deaths,chile,0,0,12,227,1054,1188
+1001,total deaths,china,213,2837,3309,4637,4638,4638
+1002,total deaths,colombia,0,0,16,293,916,1014
+1003,total deaths,comoros,0,0,0,0,2,2
+1004,total deaths,congo (brazzaville),0,0,0,9,20,20
+1005,total deaths,congo (kinshasa),0,0,8,31,72,72
+1006,total deaths,costa rica,0,0,2,6,10,10
+1007,total deaths,cote d'ivoire,0,0,1,14,33,33
+1008,total deaths,croatia,0,0,6,69,103,103
+1009,total deaths,cuba,0,0,6,61,83,83
+1010,total deaths,cyprus,0,0,8,15,17,17
+1011,total deaths,czechia,0,0,31,236,320,323
+1012,total deaths,denmark,0,0,90,452,574,580
+1013,total deaths,diamond princess,0,6,10,13,13,13
+1014,total deaths,djibouti,0,0,0,2,24,25
+1015,total deaths,dominica,0,0,0,0,0,0
+1016,total deaths,dominican republic,0,0,51,301,502,515
+1017,total deaths,ecuador,0,0,75,900,3358,3438
+1018,total deaths,egypt,0,0,46,392,959,1052
+1019,total deaths,el salvador,0,0,1,10,46,49
+1020,total deaths,equatorial guinea,0,0,0,1,12,12
+1021,total deaths,eritrea,0,0,0,0,0,0
+1022,total deaths,estonia,0,0,4,52,68,68
+1023,total deaths,eswatini,0,0,0,1,2,3
+1024,total deaths,ethiopia,0,0,0,3,11,14
+1025,total deaths,fiji,0,0,0,0,0,0
+1026,total deaths,finland,0,0,17,211,320,320
+1027,total deaths,france,0,2,3532,24379,28805,28943
+1028,total deaths,gabon,0,0,1,3,17,20
+1029,total deaths,gambia,0,0,1,1,1,1
+1030,total deaths,georgia,0,0,0,6,12,13
+1031,total deaths,germany,0,0,775,6623,8540,8563
+1032,total deaths,ghana,0,0,5,17,36,38
+1033,total deaths,greece,0,0,49,140,175,179
+1034,total deaths,grenada,0,0,0,0,0,0
+1035,total deaths,guatemala,0,0,1,16,108,123
+1036,total deaths,guinea,0,0,0,7,23,23
+1037,total deaths,guinea-bissau,0,0,0,1,8,8
+1038,total deaths,guyana,0,0,2,9,12,12
+1039,total deaths,haiti,0,0,0,8,44,45
+1040,total deaths,holy see,0,0,0,0,0,0
+1041,total deaths,honduras,0,0,7,71,212,225
+1042,total deaths,hungary,0,0,16,312,526,532
+1043,total deaths,iceland,0,0,2,10,10,10
+1044,total deaths,india,0,0,35,1154,5408,5829
+1045,total deaths,indonesia,0,0,136,792,1613,1663
+1046,total deaths,iran,0,43,2898,6028,7797,7942
+1047,total deaths,iraq,0,0,50,93,205,235
+1048,total deaths,ireland,0,0,71,1232,1652,1658
+1049,total deaths,israel,0,0,20,222,285,290
+1050,total deaths,italy,0,29,12428,27967,33415,33530
+1051,total deaths,jamaica,0,0,1,8,9,9
+1052,total deaths,japan,0,5,56,430,898,902
+1053,total deaths,jordan,0,0,5,8,9,9
+1054,total deaths,kazakhstan,0,0,2,25,40,44
+1055,total deaths,kenya,0,0,1,17,64,71
+1056,total deaths,"korea, south",0,16,162,248,271,273
+1057,total deaths,kosovo,0,0,1,22,30,30
+1058,total deaths,kuwait,0,0,0,26,212,226
+1059,total deaths,kyrgyzstan,0,0,0,8,16,17
+1060,total deaths,laos,0,0,0,0,0,0
+1061,total deaths,latvia,0,0,0,15,24,24
+1062,total deaths,lebanon,0,0,12,24,27,27
+1063,total deaths,lesotho,0,0,0,0,0,0
+1064,total deaths,liberia,0,0,0,16,27,28
+1065,total deaths,libya,0,0,0,3,5,5
+1066,total deaths,liechtenstein,0,0,0,1,1,1
+1067,total deaths,lithuania,0,0,8,45,70,71
+1068,total deaths,luxembourg,0,0,23,90,110,110
+1069,total deaths,ms zaandam,0,0,0,2,2,2
+1070,total deaths,madagascar,0,0,0,0,6,6
+1071,total deaths,malawi,0,0,0,3,4,4
+1072,total deaths,malaysia,0,0,43,102,115,115
+1073,total deaths,maldives,0,0,0,1,5,7
+1074,total deaths,mali,0,0,2,26,77,78
+1075,total deaths,malta,0,0,0,4,9,9
+1076,total deaths,mauritania,0,0,1,1,23,31
+1077,total deaths,mauritius,0,0,5,10,10,10
+1078,total deaths,mexico,0,0,29,1859,9930,10637
+1079,total deaths,moldova,0,0,4,116,295,307
+1080,total deaths,monaco,0,0,1,4,4,4
+1081,total deaths,mongolia,0,0,0,0,0,0
+1082,total deaths,montenegro,0,0,2,7,9,9
+1083,total deaths,morocco,0,0,36,170,205,206
+1084,total deaths,mozambique,0,0,0,0,2,2
+1085,total deaths,namibia,0,0,0,0,0,0
+1086,total deaths,nepal,0,0,0,0,8,8
+1087,total deaths,netherlands,0,0,1040,4811,5975,5986
+1088,total deaths,new zealand,0,0,1,19,22,22
+1089,total deaths,nicaragua,0,0,1,3,35,46
+1090,total deaths,niger,0,0,3,32,64,65
+1091,total deaths,nigeria,0,0,2,58,287,314
+1092,total deaths,north macedonia,0,0,9,77,133,141
+1093,total deaths,norway,0,0,39,210,236,237
+1094,total deaths,oman,0,0,1,11,49,59
+1095,total deaths,pakistan,0,0,26,385,1483,1621
+1096,total deaths,panama,0,0,30,188,336,352
+1097,total deaths,papua new guinea,0,0,0,0,0,0
+1098,total deaths,paraguay,0,0,3,10,11,11
+1099,total deaths,peru,0,0,30,1051,4506,4634
+1100,total deaths,philippines,0,1,88,568,957,966
+1101,total deaths,poland,0,0,33,644,1064,1092
+1102,total deaths,portugal,0,0,160,989,1410,1436
+1103,total deaths,qatar,0,0,2,10,38,43
+1104,total deaths,romania,0,0,82,717,1266,1288
+1105,total deaths,russia,0,0,17,1073,4693,5031
+1106,total deaths,rwanda,0,0,0,0,1,2
+1107,total deaths,saint kitts and nevis,0,0,0,0,0,0
+1108,total deaths,saint lucia,0,0,0,0,0,0
+1109,total deaths,saint vincent and the grenadines,0,0,0,0,0,0
+1110,total deaths,san marino,0,0,26,41,42,42
+1111,total deaths,sao tome and principe,0,0,0,0,12,12
+1112,total deaths,saudi arabia,0,0,10,162,503,549
+1113,total deaths,senegal,0,0,0,9,42,43
+1114,total deaths,serbia,0,0,16,179,243,245
+1115,total deaths,seychelles,0,0,0,0,0,0
+1116,total deaths,sierra leone,0,0,0,7,46,46
+1117,total deaths,singapore,0,0,3,15,23,24
+1118,total deaths,slovakia,0,0,0,23,28,28
+1119,total deaths,slovenia,0,0,15,91,108,109
+1120,total deaths,somalia,0,0,0,28,78,79
+1121,total deaths,south africa,0,0,5,103,683,755
+1122,total deaths,south sudan,0,0,0,0,10,10
+1123,total deaths,spain,0,0,8464,24543,27127,27127
+1124,total deaths,sri lanka,0,0,2,7,10,11
+1125,total deaths,sudan,0,0,2,31,286,307
+1126,total deaths,suriname,0,0,0,1,1,1
+1127,total deaths,sweden,0,0,180,2586,4395,4468
+1128,total deaths,switzerland,0,0,433,1737,1920,1920
+1129,total deaths,syria,0,0,2,3,5,6
+1130,total deaths,taiwan*,0,1,5,6,7,7
+1131,total deaths,tajikistan,0,0,0,0,47,47
+1132,total deaths,tanzania,0,0,1,16,21,21
+1133,total deaths,thailand,0,0,10,54,57,58
+1134,total deaths,timor-leste,0,0,0,0,0,0
+1135,total deaths,togo,0,0,1,9,13,13
+1136,total deaths,trinidad and tobago,0,0,3,8,8,8
+1137,total deaths,tunisia,0,0,10,41,48,48
+1138,total deaths,turkey,0,0,214,3174,4540,4585
+1139,total deaths,us,0,1,5367,62996,104381,106180
+1140,total deaths,uganda,0,0,0,0,0,0
+1141,total deaths,ukraine,0,0,17,261,708,733
+1142,total deaths,united arab emirates,0,0,6,105,264,269
+1143,total deaths,united kingdom,0,0,2429,26842,38571,39452
+1144,total deaths,uruguay,0,0,1,17,22,23
+1145,total deaths,uzbekistan,0,0,2,9,15,15
+1146,total deaths,venezuela,0,0,3,16,14,18
+1147,total deaths,vietnam,0,0,0,0,0,0
+1148,total deaths,west bank and gaza,0,0,1,2,3,3
+1149,total deaths,western sahara,0,0,0,0,1,1
+1150,total deaths,yemen,0,0,0,2,80,87
+1151,total deaths,zambia,0,0,0,3,7,7
+1152,total deaths,zimbabwe,0,0,1,4,4,4
+1153,total deaths,world,213,2941,44238,233360,372035,380249
+1154,total deaths,united states,0,1,5367,62996,104381,106180
+1155,total deaths,usa,0,1,5367,62996,104381,106180
+1156,total deaths,south korea,0,16,162,248,271,273
+1157,total deaths,uk,0,0,2429,26842,38571,39452

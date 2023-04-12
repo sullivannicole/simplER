@@ -14,9 +14,9 @@ from utils.simplER import *
 
 tagger = Classifier.load('ner-ontonotes-large')
 
-# ---------
-# Data
-# ---------
+# ---------------
+# IMDB dataset
+# ---------------
 
 imdb_reviews = pd.read_csv('https://raw.githubusercontent.com/sullivannicole/simplER/main/data/imdb_reviews.csv')
 imdb_reviews = imdb_reviews.rename(columns={imdb_reviews.columns[0]: 'id'})
@@ -28,6 +28,18 @@ split_df = split_sentences(rvw_text)
 ner_results = run_NER(split_df)
 
 # spark.createDataFrame(ner_results).write.mode('overwrite').saveAsTable('user_nsulliv3.simplER_imdb_NER')
+
+# ---------------
+# COVID dataset
+# ---------------
+
+covid_tbls = spark.sql('SELECT * FROM user_nsulliv3.simpler_covid_tbls').toPandas()
+covid_gen = spark.sql('SELECT * FROM user_nsulliv3.simpler_covid_gen').toPandas()
+covid_usr = spark.sql('SELECT * FROM user_nsulliv3.simpler_covid_usr_corrected').toPandas()
+
+covid_tbls.to_csv('data/covid_raw_tbls.csv')
+covid_gen.to_csv('data/covid_raw_generated_sentences.csv')
+covid_usr.to_csv('data/covid_raw_user_sentences.csv')
 
 # COMMAND ----------
 
