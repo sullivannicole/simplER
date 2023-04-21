@@ -1,0 +1,51 @@
+,id,sentence,country_1,country_2,count_type1,count_type2,count_type_gpt
+0,0,united states has 3 times the cases of canada,united states,canada,total confirmed,total confirmed,new confirmed
+1,1,the number of cases in france is higher than in germany.,france,germany,total confirmed,total confirmed,new confirmed
+2,2,the total death in russia is below 10000.,russia,,total deaths,,total deaths
+3,3,france has the most confirmed cases in europe. ,france,,total confirmed,,total confirmed
+4,4,china and japan have a total of over 5 million cases,china,japan,total confirmed,total confirmed,total confirmed
+5,5,death number in iran is higher than the us,iran,us,total deaths,total deaths,total deaths
+6,6,the death rate in mexico is much higher than in ireland,mexico,ireland,new deaths,new deaths,Unknown
+7,7,there were 30 total deaths in spain on march 12,spain,,total deaths,,total deaths
+8,8,the death rate in america more than china,usa,china,new deaths,new deaths,Unknown
+9,9,the death rate in the world is 20%,world,,new deaths,,Unknown
+10,10,the death rate is 50%,world,,new deaths,,Unknown
+11,11,the death rate in america is much higher than in france.,usa,france,new deaths,new deaths,Unknown
+12,12,there are 800 cases in mexico,mexico,,total confirmed,,total confirmed
+13,13,the recovery rate in italy is much higher than in france.,italy,france,total confirmed,total confirmed,Unknown
+14,14,the coronavirus death rate in italy is over 0.1%,italy,,new deaths,,Unknown
+15,15,the number of covid-19 total confirmed cases in iceland in april is greater than 1000.,iceland,,total confirmed,,total confirmed
+16,16,there are 1 million cases in china,china,,total confirmed,,total confirmed
+17,17,number of cases in france is 100000,france,,total confirmed,,total confirmed
+18,18,there are lower than 20 cases  in greece,greece,,total confirmed,,new confirmed
+19,19,the death rate in us is higher than italy,us,italy,new deaths,new deaths,Unknown
+20,20,the number of deaths in italy is 8000,italy,,total deaths,,total deaths
+21,21,43 new deaths in the netherlands,netherlands,,new deaths,,new deaths
+22,22,there are 800 deaths in netherlands.,netherlands,,total deaths,,total deaths
+23,23,greece has 20 deaths,greece,,total deaths,,Total deaths
+24,24,death count in france is 120 persons,france,,total deaths,,new deaths
+25,25,"""the death rate in italy is much higher than in germany.""",italy,germany,new deaths,new deaths,Unknown
+26,26,there are 2009 deaths in luxembourg ,luxembourg,,total deaths,,total deaths
+27,27,"the death rate in italy is much higher than in france.""",italy,france,new deaths,new deaths,Unknown
+28,28,russia has less than 25 cases,russia,,total confirmed,,Unknown
+29,29,there are 30 cases in morocco,morocco,,total confirmed,,new confirmed
+30,30,qatar has 1000 cases so far.,qatar,,total confirmed,,total confirmed
+31,31,there are 800 cases in vietnam,vietnam,,total confirmed,,total confirmed
+32,32,algeria has 17 cases,algeria,,total confirmed,,new confirmed
+33,33,there are 1200 cases in peru,peru,,total confirmed,,total confirmed
+34,34,there are 190 cases in france.,france,,total confirmed,,total confirmed
+35,35,there are more than 1000 cases in france,france,,total confirmed,,new confirmed
+36,36,there are 800 cases in italy.,italy,,total confirmed,,total confirmed
+37,37,there are 30 cases in colombia,colombia,,total confirmed,,new confirmed
+38,38,the death rate in switzerland is much higher than in france.,switzerland,france,new deaths,new deaths,Unknown
+39,39,italy death count is 3000,italy,,total deaths,,total deaths
+40,40,the number of dead people in france is lower than italy,france,italy,total confirmed,total confirmed,total deaths
+41,41,italy has less cases than france,italy,france,total confirmed,total confirmed,Unknown
+42,42,there are no cases in turkey,turkey,,total confirmed,,Unknown
+43,43,there are 15.000 cases in italy.,italy,,total confirmed,,total confirmed
+44,44,usa has more then 100000 confirmed cases of coronavirus,usa,,total confirmed,,total confirmed
+45,45,the death rate is above 4 %,world,,new deaths,,Unknown
+46,46,there are 200000 deaths in china.,china,,total deaths,,total deaths
+47,47,2800 new cases found in italy,italy,,total confirmed,,new confirmed
+48,48,"mexico will have 10,000 cases by the end of april",mexico,,total confirmed,,new confirmed
+49,49,corona virus death rate in the world is 3%,world,,new deaths,,Unknown
